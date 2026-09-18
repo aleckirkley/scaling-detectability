@@ -4,7 +4,7 @@ Data and a worked example for
 
 > A. Kirkley, *Detectability limits of scaling laws* (2026).
 
-`example.ipynb` runs the subgroup analysis of the paper on the mammalian metabolic data (Fig. 2(b), SM Sec. C.2): common exponent, per-order exponents and prefactors with their errors, and the excess-scatter test against the resolution limits. It needs only numpy, pandas and scipy.
+`example.ipynb` runs the subgroup analysis of the paper on the mammalian metabolic data, illustrating the pipeline.
 
 ## Data
 
